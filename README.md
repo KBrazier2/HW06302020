@@ -40,3 +40,21 @@ You are required to submit the following for review:
 ​
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 ​
+
+---
+
+https://kbrazier2.github.io/HW06302020/.
+
+HTML
+- title change
+- linked proper navigation list items to properly scroll to appropriate section
+- used semantic elements such as header, nav, section, aside, and footer to replace divs
+- condensed the 3 sections' classes into 1
+- condensed the 3 asides' classes into 1
+
+CSS
+- rearranged layout of css to follow html
+- condensed sections and asides
+
+
+
